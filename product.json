@@ -214,5 +214,151 @@
         "image" : "https://www.kfcpakistan.com/images/43a95f10-ffaa-11ed-b673-4121381f04c6-value-Bucket-2023-05-31115706.png",
         "price" : "1890",
         "categoryId": 4
-       }
+       },
+    {
+       "id":1,
+        "title": "Dinner Roll",
+        "disc": "ADinner Roll",
+        "image" : "https://www.kfcpakistan.com/images/62153aa0-0513-11ee-8eee-c7aabf77bad4-Dinner-Roll-copy_variant_0-2023-06-07091210.png",
+        "price" : "50",
+        "categoryId": 5
+       },
+    {
+       "id": 2,
+        "title": "Spicy Nuggets",
+        "disc": "KFC Pakistan",
+        "image" : "https://www.kfcpakistan.com/images/43aa4970-ffaa-11ed-9c55-3705f003c528-3_variant_0-2023-05-31115706.png",
+        "price" : "530",
+        "categoryId": 5
+       },
+   
+    {
+       "id": 3,
+        "title": "Plain Nuggets",
+        "disc": "KFC Pakistan",
+        "image" : "https://www.kfcpakistan.com/images/43a95f10-ffaa-11ed-b673-4121381f04c6-3_variant_0-2023-05-31115706.png",
+        "price" : "480",
+        "categoryId": 5
+       },
+    {
+       "id":4,
+        "title": "Hot Wings Bucket",
+        "disc": "10 Pcs of our Signature Hot & Crispy Wings",
+        "image" : "https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e571998fe-HotWings_variant_0-2023-05-31115706.png",
+        "price" : "610",
+        "categoryId": 5
+       },
+    {
+       "id": 5,
+        "title": "Tangy Masala Wings",
+        "disc": "8 pcs of Hot Wings coated in a sweet and tangy sauce, dusted",
+        "image" : "https://www.kfcpakistan.com/images/43a98620-ffaa-11ed-b6b3-6970cc1cd666-HotWings_variant_0-2023-05-31115706.png",
+        "price" : "580",
+        "categoryId": 5
+       },
+       {
+         "id":6,
+          "title": "Buffalo Wings",
+          "disc": "8 Pcs of Hot Wings coated with a spicy Buffalo sauce, topped",
+          "image" : "https://www.kfcpakistan.com/images/43a95f10-ffaa-11ed-b673-4121381f04c6-HotWings_variant_0-2023-05-31115706.png",
+          "price" : "580",
+          "categoryId": 5
+         },
+    {
+       "id": 7,
+        "title": "Thai Sweet Chilli Wings",
+        "disc": "8 pcs of Hot Wings coated in a sweet and tangy sauce, dusted",
+        "image" : "https://www.kfcpakistan.com/images/43a98620-ffaa-11ed-b6b3-6970cc1cd666-HotWings_variant_0-2023-05-31115706.png",
+        "price" : "580",
+        "categoryId": 5
+       },
+       {
+         "id": 8,
+          "title": "Hot Shots",
+          "disc": " 9 Pcs of hand-breaded Hot Shots",
+          "image" : "https://www.kfcpakistan.com/images/43a95f10-ffaa-11ed-b673-4121381f04c6-HotShots_variant_0-2023-05-31115706.png",
+          "price" : "420",
+          "categoryId": 5
+         }
+         ,
+    {
+       "id": 9,
+        "title": "Fries",
+        "disc": "KFC Pakistan",
+        "image" : "https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e571998fe-RegularFries_variant_0-2023-05-31115706.png",
+        "price" : "420",
+        "categoryId": 5
+       },
+       {
+         "id": 10,
+          "title": "Fries Bucket",
+          "disc": " KFC Pakistan",
+          "image" : "https://www.kfcpakistan.com/images/43aa4970-ffaa-11ed-9c55-3705f003c528-FriesBucketwithMayoDip_variant_0-2023-05-31115706.png",
+          "price" : "420",
+          "categoryId": 5
+         },
+    {
+       "id": 11,
+        "title": "One Piece Chicken",
+        "disc": "1 piece of Hot & Crispy Fried Chicken",
+        "image" : "https://www.kfcpakistan.com/images/43a95f10-ffaa-11ed-b673-4121381f04c6-1PcChicken_variant_0-2023-05-31115706.png",
+        "price" : "270",
+        "categoryId": 5
+       },
+       {
+         "id": 12,
+          "title": "Coleslaw",
+          "disc": " Sliced cabbage and carrots tossed in mayo",
+          "image" : "https://www.kfcpakistan.com/images/43a98620-ffaa-11ed-b6b3-6970cc1cd666-Coleslaw_variant_0-2023-05-31115706.png",
+          "price" : "100",
+          "categoryId": 5
+         },
+       {
+         "id": 13,
+          "title": "Corn On The Cob",
+          "disc": " Boiled sweet corn brushed with butter",
+          "image" : "https://www.kfcpakistan.com/images/33685b40-0461-11ee-911c-497570899609-Corn_variant_0-2023-06-06115641.png",
+          "price" : "250",
+          "categoryId": 5
+         },
+    {
+       "id": 14,
+        "title": "Mineral Water 500ml",
+        "disc": "KFC Pakistan",
+        "image" : "https://www.kfcpakistan.com/images/61ea8120-0513-11ee-b037-a334837c64cb-Water_variant_0-2023-06-07091210.png",
+        "price" : "90",
+        "categoryId": 5
+       },
+       {
+         "id": 15,
+          "title": "Pepsi Regular",
+          "disc": " KFC Pakistan",
+          "image" : "https://www.kfcpakistan.com/images/33685b40-0461-11ee-911c-497570899609-pepsicopy_variant_0-2023-06-06115641.png",
+          "price" : "140",
+          "categoryId": 5
+         },
+    {
+       "id": 1,
+        "title": "Midnight Deal 1",
+        "disc": "1 Zinger burger + 1 regular drink",
+        "image" : "https://www.kfcpakistan.com/images/6383e600-0538-11ee-9244-6d110563faa5-Salsawings(1)_variant_0-2023-06-07133704.png       ",
+        "price" : "470",
+        "categoryId": 6
+       },
+       {
+         "id": 2,
+          "title": "Midnight Deal 2",
+          "disc": " 2 Krunch burgers + 2 regular drinks",
+          "image" : "https://www.kfcpakistan.com/images/4e9ce970-05c0-11ee-b3d4-cde32594fefb-Snack-Bucket-2023-06-08055000.png",
+          "price" : "580",
+          "categoryId": 6
+         },
+       {
+         "id":3,
+          "title": "Midnight Deal 3",
+          "disc": "Mighty Zinger + regular drink",
+          "image" : "https://www.kfcpakistan.com/images/aaddca80-0479-11ee-9d61-4132afdda8df-ChickyMeal1_variant_0-2023-06-06145149.png",
+          "price" : "660",
+          "categoryId": 6
+         }
     ]
